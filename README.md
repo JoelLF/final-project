@@ -1,6 +1,6 @@
 # 🚀 Ionic v4: Hunters Explorer app
 
-Erasumus+ Collaboration between Ies El Rincon and TechCollege.
+Erasumus+ Collaboration between IES El Rincon and TechCollege.
 Spanish and danish students are tasked with the purpose of expanding tourists' knowledge of the island in new ways using applications.
 We decided to use Angular and Ionic, two frameworks - to come up with 
 a fresh modern looking application, that would be appealing.
